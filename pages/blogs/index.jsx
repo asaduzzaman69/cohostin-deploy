@@ -1,5 +1,5 @@
 import { getPosts } from "/lib/posts";
-import Layout from '/components/layout.jsx';
+import Layout from './../../components/Layout';
 import FeaturedPost from "/components/Featured-post/Featured-Post";
 
 

@@ -2,7 +2,7 @@ import ReactPaginate from 'react-paginate';
 import { getPosts } from "/lib/posts";
 
 // Layout Component
-import Layout from '/components/layout.jsx';
+import Layout from './../../components/Layout';
 import { GridLayout } from '/styles/Blog.module.jsx'
 
 // Layout Component
