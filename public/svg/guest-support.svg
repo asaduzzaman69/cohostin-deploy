@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="75px" viewBox="0 0 74 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>guest-support</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-383.000000, -37.000000)" stroke="#1C2C40" stroke-width="2">
+            <g id="guest-support" transform="translate(384.000000, 38.000000)">
+                <circle id="Oval" cx="35.897" cy="36.327" r="35.879"></circle>
+                <path d="M36.121,58.5308969 C32.8322985,58.5308969 29.0952985,57.6325979 24.91,55.836 C17.285,51.7654484 17.959,48.77 17.959,46.885 C17.959,45 21.0871021,45 24.91,45 C28.7328979,45 30.6448469,45.3074026 36.1225,45.3074026 C41.6001531,45.3074026 43.522,45.3074026 47.334,45.3074026 C51.146,45.3074026 54.509,45 54.509,46.885 C54.509,48.77 54.509,51.7654484 47.334,55.836 C43.1473682,57.6325979 39.4097015,58.5308969 36.121,58.5308969 Z" id="Path" fill="#FFDFF9" fill-rule="nonzero"></path>
+                <path d="M44.642,46.5 L44.642,56.5 M36.121,46.5 L36.121,57.49 M27.785,45.158 L27.785,56.5 M42.848,28.03 C43.521,25.34 45.988,23.545 48.678,23.545 C51.594,23.545 53.836,25.339 54.509,28.03 M17.285,28.03 C17.958,25.34 20.425,23.545 23.115,23.545 C25.806,23.545 28.273,25.339 28.945,28.03" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

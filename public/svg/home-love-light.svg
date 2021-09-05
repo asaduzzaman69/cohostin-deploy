@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="81px" viewBox="0 0 89 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>home-love-light</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-276.000000, -163.000000)" stroke="#1C2C40" stroke-width="2">
+            <g id="home-love-light" transform="translate(277.000000, 164.000000)">
+                <polyline id="Path" points="73.6 28.533 73.6 78.133 13.333 78.133 13.333 28.533"></polyline>
+                <polyline id="Path" points="0.8 40.267 43.467 0 86.133 40.267"></polyline>
+                <path d="M54.667,39.2 C52.0185351,36.7998849 47.9814649,36.7998849 45.333,39.2 L43.467,40.8 L41.6,39.2 C38.9516851,36.800489 34.9153149,36.800489 32.267,39.2 C29.333,41.867 29.333,46.133 32.267,48.8 L43.467,58.933 L54.667,48.8 C57.6,46.4 57.6,41.867 54.667,39.2 L54.667,39.2 Z" id="Path" fill-opacity="0.450666521" fill="#23D3D3" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

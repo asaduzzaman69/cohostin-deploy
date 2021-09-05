@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="70px" viewBox="0 0 76 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>sun-orange</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-55.000000, -39.000000)" stroke="#1C2C40" stroke-width="2">
+            <g id="sun-orange" transform="translate(56.000000, 40.000000)">
+                <path d="M16.419,40.006 C16.419,28.675 25.669,19.425 37,19.425 C48.331,19.425 57.581,28.675 57.581,40.006" id="Path" fill="#FFD4C4" fill-rule="nonzero"></path>
+                <path d="M37,0.694 L37,9.944 M0,41.163 L74,41.163 M4.625,54.344 L69.606,54.344 M12.488,67.525 L61.744,67.525 M9.25,12.256 L15.956,18.731 M58.275,18.731 L64.981,12.256" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
